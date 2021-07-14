@@ -3,7 +3,7 @@
 3. npm install -g cordova ionic@3.19.0
 -------------프로젝트 생성
 4. 원하는 위치 변경(ex: c:\Projects\ionic)
-5. -> ionic start 프로젝트명 옵션
+5. -> ionic start 프로젝트명 옵션(blank)
 6. 질문
 	1) CLI 버전 UPDATE - N
 	2) iOS와 Android를 포함할건가요? - Y
